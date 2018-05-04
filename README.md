@@ -36,6 +36,7 @@ A color scheme for Sublime Text, N/Vim, iTerm, and more. Based on Atom's One. Wo
   - [x] [Gnome Terminal](./gnome-terminal)
   - [x] [Alacritty](./alacritty)
   - [x] [Xcode](./xcode)
+  - [x] [Konsole](./konsole)
   - [ ] IntelliJ
   - [ ] Eclipse
   - [ ] GNU Emacs
